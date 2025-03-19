@@ -1,3 +1,5 @@
+## Salut 👋, je suis Luis Carlos, un développeur full stack and programmeur de Montréal.
+
 ## Hi there 👋, I'm Luis Carlos, a Full Stack Developer based in Montréal.
 
 I've been immersed in technologies like React, JavaScript, TypeScript, Python, Node.js, MongoDB, MySQL, AWS cloud services, Azure, and Figma design software. Feel free to chat with me about anything related to Web Development or any programming project.
