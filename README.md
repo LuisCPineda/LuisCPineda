@@ -20,7 +20,9 @@ I've been immersed in technologies like React, JavaScript, TypeScript, Python, N
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCPineda)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCPineda)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **LuisCPineda/LuisCPineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
