@@ -1,5 +1,8 @@
-## Hi there 👋, I'm Luis Carlos
+## Hi there 👋, I'm Luis Carlos, a Full Stack Developer based in Montréal.
 
+I've been immersed in technologies like React, JavaScript, TypeScript, Python, Node.js, MongoDB, MySQL, AWS cloud services, Azure, and Figma design software. Feel free to chat with me about anything related to Web Development or any programming project.
+
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://portfolioluispineda.vercel.app/)
 <!--
 **LuisCPineda/LuisCPineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
